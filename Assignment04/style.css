@@ -1,0 +1,17 @@
+.para-1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+    font-size: 24px;
+}
+
+#para-2{
+    font-family:'Times New Roman', Times, serif;
+    color: red;
+    font-size: 30px;
+}
+
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
+    font-size: 35px;
+} 
