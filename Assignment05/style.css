@@ -1,0 +1,51 @@
+/* 1. Universal Selector */
+* {
+    font-family: Arial, sans-serif;
+}
+
+/* 2. Type Selector */
+p {
+    color: #333; /* Dark gray */
+}
+
+body {
+    background-color: #c5bc8b; /* Light color */
+}
+
+/* 3. Class Selector */
+.highlight {
+    background-color: yellow;
+}
+
+.box {
+    background-color: #e0e0e0;
+    padding: 15px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    color: #333;
+}
+
+/* 4. ID Selector */
+#main-header {
+    font-size: 2rem;
+    font-weight: bold;
+    background-color: #3fa2dc;
+    color: white;
+    padding: 10px;
+ 
+}
+
+/* 5. Descendant Selector */
+p span {
+    color: blue;
+}
+
+.list-div li {
+    color: #ff6347; /* Tomato color */
+}
+
+/* 6. Grouping Selector */
+h1, h2, h3 {
+    color: #2c3e50; /* Dark blue-gray */
+    text-align: center;
+}
