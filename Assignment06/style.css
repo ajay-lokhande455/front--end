@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;  
+}
+p{
+    border: 5px solid red;
+    margin: 25px;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    background-color: aqua;
+    color: yellow;
+}
